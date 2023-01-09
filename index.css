@@ -75,3 +75,8 @@ h3 {
     line-height: 40px;
     color: #9AABD8;
 }
+
+.highlight {
+    border: 2px solid yellow;
+    height: 98%;
+}
